@@ -1,18 +1,18 @@
-C++
+# C++
 
 *.exe
 *.out
 *.o
 
-Python
+# Python
 
-pycache/
+__pycache__/
 *.pyc
 
-VS Code
+# VS Code
 
 .vscode/
 
-macOS
+# macOS
 
 .DS_Store
