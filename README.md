@@ -11,6 +11,8 @@ This repository contains clean, well-commented solutions for **must-do pattern p
 - Java, JavaScript (planned)
 
 ## Folder Structure
+
+```text
 solutions/
 ├── cpp/
 │   ├── patterns/
@@ -22,6 +24,7 @@ solutions/
 │   └── ...
 └── c/
     └── ...
+```
 
 ## Progress
 
