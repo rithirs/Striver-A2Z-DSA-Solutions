@@ -30,7 +30,7 @@ solutions/
 
 | Topic                  | C++ | Python | C   | Problems Solved |
 |------------------------|-----|--------|-----|-----------------|
-| Patterns               | ✅  | ✅      | ✅  | 9/9             |
+| Patterns               | ✅  | ✅      | ✅  | 13/22           |
 
 
 ## How to Use
