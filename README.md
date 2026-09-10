@@ -20,7 +20,8 @@ solutions/
 │   ├── strings/
 │   └── ...
 ├── python/
-│   ├── patterns/
+│   ├── patterns/   
+│   ├── basic-maths/   
 │   └── ...
 └── c/
     └── ...
