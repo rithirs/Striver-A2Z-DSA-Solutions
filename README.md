@@ -40,7 +40,7 @@ bash git clone https://github.com/rithirs/Striver-A2Z-DSA-Solutions.git
 2. Navigate to the desired language and topic:
 bash cd solutions/cpp/patterns
 3. Compile & Run:
-   - **C++**: `g++ filename.cpp -o output && ./output`
+   - **C++**: `g++ filename.cpp -o output &x& ./output`
    - **Python**: `python filename.py`
    - **C**: `gcc filename.c -o output && ./output`
 
